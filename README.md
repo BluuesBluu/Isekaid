@@ -1,8 +1,9 @@
 # Isekaid
 # Table of Contents
 1. [Early stage](#early)
-    1. [Grinding lvl 1-60](#early2)
-    2. [Spending gold](#early3)
+    1. [Classes](#early2)
+    2. [Grinding lvl 1-60](#early3)
+    3. [Spending gold](#early4)
 2. [End game](#end)
     1. [Map grinding lvl 60+](#end)
     2. [Dungeons](#end)
@@ -12,7 +13,49 @@
 4. [Commands](#command)
 
 ## Early stage <a name="early"></a>
-### Grinding lvl 1-60 <a name="early2"></a>
+### Classes <a name="early2"></a>
+- There are a total of 5 classes.
+- Pros and Cons of each class
+
+```
+Human 
+- Pros: 10% Experience increase
+- Cons: Skill does not affect combat
+```
+
+```
+Elf	
+- Pros: 1 Intelligence stat per level
+- Cons: Switching to a Strength class may make the intelligence useless
+```
+
+```
+Undead
+- Pros: 5% max hp regenerated per turn
+- Cons: May have less attacking stat compared to the Elf and Demon class
+```
+
+```
+Demon	
+- Pros: 1 Strength stat per level
+- Cons: Switching to a Intelligence class may make the strength useless
+```
+
+```
+Lizardman
+- Pros: 1 defense stat per level
+- Cons: May have less attacking stat compared to the Elf and Demon Class
+```
+
+- Summary
+
+```
+Humans for gaining Experience 10% faster than usual
+Elves and Demons for more Damage
+Undead and Lizardman for Survivability
+```
+
+### Grinding lvl 1-60 <a name="early3"></a>
 - Start with the Rogue class.
 - Add all stat points to str and health
 (The rest of the statistics are unnecessary)
@@ -34,7 +77,7 @@ Description
 Ignores 30% of the opponent's defense
 ```
 
-### Spending gold <a name="early3"></a>
+### Spending gold <a name="early4"></a>
 Spend all the gold on summoning a pet Until you manage to summon a golem try not to bother with equipment, use only what you collect.
 ```
 $buy summon
@@ -107,7 +150,6 @@ Strength (s) - 10
 Strength (s) - 10
 
 Rare Sword 2
-
 Strength (s) - 10
 Health (h)   - 10
 
