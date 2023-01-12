@@ -107,6 +107,7 @@ Strength (s) - 10
 Strength (s) - 10
 
 Rare Sword 2
+
 Strength (s) - 10
 Health (h)   - 10
 
