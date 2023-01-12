@@ -9,7 +9,7 @@
 3. [Gatcha](#gatcha)
     1. [Fusing](#gatcha1)
     2. [Pet summoning](#gatcha2)
-4. [Commands](#)
+4. [Commands](#command)
 
 ## Early stage <a name="early"></a>
 ### Grinding lvl 1-60 <a name="early2"></a>
@@ -130,9 +130,37 @@ Upgrading epic items is even crazier.
 
 ### Pet summoning <a name="gatcha2"></a>
 
+## Commands <a name="command"></a>
+```
+$start      - Start the game
+$subclass   - After level 10 you choose a subclass
 
+$p          - Shows statistics
+$bal        - Shows gold/keys
+$sv         - Shows skill description
+$skills     - Shows skills you equip
+$skilltree  - Shows skill tree for your class/subclass
+$learn      - Equip skill
 
+$map        - Map grinding
+$dungeon    - Dungeon list
+$challenge  - Dungeon entry
 
+$shop       - Shop list
+$buy        - Buy from shop
 
+$fuse       - Item fusing
 
+$drop       - Drop item, or multiple items [1,2,3]
+$dropall    - Drop all items with specific rarity
+$sell       - Sell materials
 
+$equip      - Equip items
+$select     - Equip pet
+$view       - View item statistics
+$petview    - Check pet statistics
+
+$lb         - General leader board
+$lb fish    - Fishing leader board
+$lb gold    - Gold leader board
+```
