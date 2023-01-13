@@ -100,7 +100,7 @@ Description
 Ignores 30% of the opponent's defense
 
 ```
-### Dungeons <a name=end2"></a>
+### Dungeons <a name="end2"></a>
 
 The most effective way in getting gold. We'll list down all commands tied to dungeons
 
