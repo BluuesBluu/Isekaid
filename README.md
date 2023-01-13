@@ -100,9 +100,36 @@ Description
 Ignores 30% of the opponent's defense
 
 ```
-### Dungeons <a name="end2"></a>
+### Dungeons <a name=end2"></a>
 
->under development
+The most effective way in getting gold. We'll list down all commands tied to dungeons
+
+```
+$party
+- Shows current party
+
+$party create [name]
+- Creates a party
+Example: $party create Hasty-gang
+
+$party invite @user
+- Invites a user into your party
+Example: $party invite @bluu
+
+$party set @user [number]
+- Adds the user to party formation. Up to 5 party members may be added
+- Note that the 1st person will get attacked by the boss
+Example: $party set @bluu 1
+	   $party set @shibb 2
+
+$dungeon
+- Shows which bosses are there and how much money you need to enter
+- Also shows first runs and fastest runs
+
+$challenge [number]
+- challenges the boss from the $dungeon command
+Example: $challenge 3
+```
 
 ## Gatcha <a name="gatcha"></a>
 At this moment this is hardest game mechanic because it's based purly on your luck.
