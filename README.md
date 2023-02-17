@@ -156,15 +156,15 @@ Rare:
 | Infernal Armor      | Elderwood Staff |
 
 Epic:
-|Armor| Weapon            |
-|-----|-------------------|
-|     | Skeletal Shortbow |
-|     | Cosmic Staff      |
+| Armor		     | Weapon            |
+|--------------------|-------------------|
+| Peacekeeper-Vest   | Skeletal Shortbow |
+| Frozen-Breastplate | Cosmic Staff      |
 
 Legendary:
-|Armor| Weapon            |
-|-----|-------------------|
-|     | Abyssal Dagger    |
+| Armor		    | Weapon            |
+|-------------------|-------------------|
+| Draconic-Skeletal | Abyssal Dagger    |
 
 #### Odds
 So now a little math about statistics
