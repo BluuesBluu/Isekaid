@@ -160,7 +160,7 @@ Epic:
 |--------------------|-------------------|
 | Peacekeeper-Vest   | Skeletal Shortbow |
 | Frozen-Breastplate | Cosmic Staff      |
-| FInfernal-Armor    | Warp-Edge         |
+| Infernal-Armor     | Warp-Edge         |
 
 Legendary:
 | Armor		    | Weapon            |
