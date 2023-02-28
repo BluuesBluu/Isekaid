@@ -160,11 +160,14 @@ Epic:
 |--------------------|-------------------|
 | Peacekeeper-Vest   | Skeletal Shortbow |
 | Frozen-Breastplate | Cosmic Staff      |
+| FInfernal-Armor    | Warp-Edge         |
 
 Legendary:
 | Armor		    | Weapon            |
 |-------------------|-------------------|
 | Draconic-Skeletal | Abyssal Dagger    |
+| Warlords-Vest     | Durandal          |
+| Soul-Cuirass      | Gramr             |
 
 #### Odds
 So now a little math about statistics
