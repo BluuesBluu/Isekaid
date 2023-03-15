@@ -13,38 +13,52 @@
 4. [Commands](#command)
 
 ## Early stage <a name="early"></a>
-### Classes <a name="early2"></a>
-- There are a total of 5 classes.
-- Pros and Cons of each class
+### Races <a name="early2"></a>
+- There are a total of 5 races.
 
 ```
 Human 
-- Pros: 10% Experience increase
-- Cons: Skill does not affect combat
+- 10% Experience increase
+
+Evolutions:
+-- Sage: Recieve 10% more stat points from equipment
+-- Demigod : 5% bonus to all stats
 ```
 
 ```
 Elf	
-- Pros: 1 Intelligence stat per level
-- Cons: Switching to a Strength class may make the intelligence useless
+- +1 Intelligence stat per level
+
+Evolutions:
+-- High-Elf: 10% more damage from magic attacks
+-- Spirit: 20% chance to deal double damage
 ```
 
 ```
 Undead
-- Pros: 5% max hp regenerated per turn
-- Cons: May have less attacking stat compared to the Elf and Demon class
+- 7.5% max hp regenerated per turn
+
+Evolutions:
+-- Lich: revive to 10% hp once per battle
+-- Archlich: gains 1% to all stats every round
 ```
 
 ```
 Demon	
-- Pros: 1 Strength stat per level
-- Cons: Switching to a Intelligence class may make the strength useless
+- +1 Strength stat per level
+
+Evolutions:
+-- Greater-Demon: 10% bonus to all physical attacks
+-- Archdemon: 10% lifesteal
 ```
 
 ```
 Lizardman
-- Pros: 1 defense stat per level
-- Cons: May have less attacking stat compared to the Elf and Demon Class
+- +1 defense stat per level
+
+Evolutions:
+-- Dragonling: Recieve 10% less damage from all attacks
+-- Draconian: Reflect 10% of all damage
 ```
 
 - Summary
