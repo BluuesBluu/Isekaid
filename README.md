@@ -1,9 +1,10 @@
 # Isekaid
 # Table of Contents
 1. [Early stage](#early)
-    1. [Classes](#early2)
-    2. [Grinding lvl 1-60](#early3)
-    3. [Spending gold](#early4)
+    1. [Stats](#early1)
+    2. [Races](#early2)
+    3. [Grinding lvl 1-60](#early3)
+    4. [Spending gold](#early4)
 2. [End game](#end)
     1. [Map grinding lvl 60+](#end)
     2. [Dungeons](#end)
@@ -13,6 +14,13 @@
 4. [Commands](#command)
 
 ## Early stage <a name="early"></a>
+### Stats <a name="early1"></a>
+- health - total hitpoints
+- strength - increases damage dealt for strength attackers
+- intelligence - increases damage dealt for intelligence attackers
+- defense - reduces damage taken
+- dexterity - move priority
+
 ### Races <a name="early2"></a>
 - There are a total of 5 races.
 
